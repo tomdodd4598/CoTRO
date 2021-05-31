@@ -1,0 +1,13 @@
+[{
+	"modid": "cotro",
+	"name": "CoTRO",
+	"description": "Sometimes, O(n) is worth it...",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "https://www.curseforge.com/minecraft/mc-mods/contenttweaker-registry-orderer",
+	"updateUrl": "",
+	"authorList": ["tomdodd4598"],
+	"credits": "Thanks to Silfryi for the CoT PR which inspired this coremod!",
+	"screenshots": [],
+	"dependencies": []
+}]

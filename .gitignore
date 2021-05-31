@@ -1,0 +1,30 @@
+# eclipse
+bin/*
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build/*
+.gradle
+
+# forge
+forge-1.12.2-14.23.5.2847-mdk.zip
+
+# contenttweaker
+src/main/resources/assets/base/*
+
+# other
+eclipse/*
+run/*
+*.suo
+/.vs
