@@ -1,0 +1,2 @@
+# ContentTweaker Registry Orderer
+A little coremod which implements [this PR](https://github.com/The-Acronym-Coders/BASE/pull/117) by Silfryi to replace ContentTweaker's unordered registry maps with ordered maps. This allows for the preservation of the script registration order, which helps keep JEI nice and clean.
